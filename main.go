@@ -1,5 +1,7 @@
 package main
 
+haha
+
 import (
 	"github.com/campoy/cooltool/server"
 )
